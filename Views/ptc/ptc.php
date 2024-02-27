@@ -99,7 +99,7 @@
                                     <!--begin::Title-->
                                     <h1
                                         class="page-heading d-flex text-white fw-bolder fs-2 flex-column justify-content-center my-0">
-                                        POFESOR DE TIEMPO COMPLETO PTC
+                                        PROFESOR DE TIEMPO COMPLETO
                                     </h1>
                                     <!--end::Title-->
                                 </div>
